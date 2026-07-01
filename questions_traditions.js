@@ -1,4 +1,4 @@
-const SUBJECTS=[
+const SUBJECTS = [
   {
     "id": "TRD-ORANGE",
     "name": "Bataille des oranges"
@@ -40,7 +40,7 @@ const SUBJECTS=[
     "name": "Busójárás"
   }
 ];
-const QUESTIONS=[
+const QUESTIONS = [
   {
     "id": "TRD-ORANGE-COUNTRY",
     "subjectId": "TRD-ORANGE",

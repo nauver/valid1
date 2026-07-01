@@ -1,1 +1,1 @@
-V2 validation par sujet. Affiche 5 questions simultanément par tradition. Export JSON/CSV depuis interface.
+V2.1 corrigée : validation par sujet, pas de template literal problématique.
