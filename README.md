@@ -1,1 +1,1 @@
-Interface de validation du quiz Traditions. Valider les questions une par une dans le navigateur. Les résultats sont stockés en localStorage et exportables en JSON/CSV.
+V2 validation par sujet. Affiche 5 questions simultanément par tradition. Export JSON/CSV depuis interface.
