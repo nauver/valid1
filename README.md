@@ -1,1 +1,1 @@
-V2.1 corrigée : validation par sujet, pas de template literal problématique.
+Validation Traditions UE V3: 27 pays UE, 2 traditions par pays, 54 questions à valider. Déployer les fichiers à la racine du dossier GitHub Pages choisi.
